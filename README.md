@@ -16,23 +16,34 @@ DeskCleaner uses a dictionary of all of the different extensions available for f
 
  My files were personally structured as:
 
- C:\Users\User\ --> Desktop --> Roberto --> media --> audio
-                                                    images
-                                                    video
-                                            other --> compressed
-                                                    executables
-                                                    fonts
-                                                    internet
-                                            programming --> c&c++
-                                                            database
-                                                            html&css
-                                                            javascript
-                                                            python
-                                                            shell
-                                            text --> microsoft ---> excel, powerpoint, word
-                                                    other ---> system
-                                                    pdf
-                                                    txt
+ C:\Users\User\
+--> Desktop 
+    --> Roberto
+        --> media
+            --> audio
+                images
+                video
+        --> other
+            --> compressed
+                executables
+                fonts
+                internet
+        --> programming
+            --> c&c++
+                database
+                html&css
+                javascript
+                python
+                shell
+        --> text
+            --> microsoft
+                --> excel
+                    powerpoint
+                    word
+                other
+                --> system
+                pdf
+                text
 
 ## Sources
 
